@@ -122,3 +122,8 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+<<<<<<< HEAD
+=======
+
+theme: jekyll-theme-minimal
+>>>>>>> c9d78407a84955baa0a24ac38ecd166152c36972
